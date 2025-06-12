@@ -1,7 +1,7 @@
   <p><img src="Eden Hazard.jpeg" alt="Header image"></p>
 ## 💫 About Me:
 undergraduate 👨‍🎓<br>UI UX Designer | Full stack developer <br>stay cool, stay cool forever!<br>
-<p>&nbsp; <br> <a href="https://open.spotify.com/user/hazardoes!"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a></p>
+<p>&nbsp; <br> <a href="https://open.spotify.com/user/Hazardoes!"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a></p>
 
 
 ## 🌐 Socials:
