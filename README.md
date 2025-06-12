@@ -1,5 +1,5 @@
   <p><img src="Eden Hazard.jpeg" alt="Header image"></p>
-# 💫 About Me:
+## 💫 About Me:
 undergraduate 👨‍🎓<br>UI UX Designer | Full stack developer <br>stay cool, stay cool forever!<br>
 
 
