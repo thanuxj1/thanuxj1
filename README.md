@@ -1,4 +1,4 @@
-  <p><img src="header.png" alt="Header image"></p>
+  <p><img src="github-header-image.png" alt="Header image"></p>
 # 💫 About Me:
 undergraduate 👨‍🎓<br>UI UX Designer | Full stack developer <br>stay cool, stay cool forever!<br>
 
