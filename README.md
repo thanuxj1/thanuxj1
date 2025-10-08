@@ -7,7 +7,7 @@
 
 ### 🎬 About Me
 
-🎧 Music 🎥 Movies ⚽ Football 🥋 BJJ
+🎧 Music 🎥 Movies ⚽ Football 🥋 BJJ    
 💡  I enjoy **teamwork**, **creative thinking**, **design**, and **risk-taking**.  
 💬 I love communicating ideas and building experiences that are bold and out of the box.  
 
