@@ -1,6 +1,6 @@
    <p><img src="Eden Hazard.jpeg" alt="Header image" align="center"></p>
 
-<h1 align="left">Hello there! 👋 I'm Thanuja Weerasekara</h1>
+<h1 align="left">Hello there👋 I'm Thanuja Weerasekara</h1>
 <h3 align="left">"Stay cool, Stay cool forever !" 😎</h3>
 
 ---
